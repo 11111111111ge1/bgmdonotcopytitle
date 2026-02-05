@@ -19,6 +19,8 @@
 // @match        https://bgm.tv/character/*
 // @match        https://bangumi.tv/character/*
 // @match        https://chii.in/character/*
+// @updateURL    https://github.com/11111111111ge1/bgmdonotcopytitle/raw/master/remove_link.js
+// @downloadURL  https://github.com/11111111111ge1/bgmdonotcopytitle/raw/master/remove_link.js
 // @grant        none
 // ==/UserScript==
 
