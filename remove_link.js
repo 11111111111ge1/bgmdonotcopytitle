@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BGM用户名和条目标题去超链接
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      11111111111ge1
 // @description  移除bgm.tv个人用户页面，条目页面，人物页面中标题的超链接，方便复制
 // @author       You
 // @match        https://bgm.tv/user/*
